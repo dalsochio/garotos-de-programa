@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ActionBar {
+  background-color: gray;
+  color: white;
+}
+
+.elevation-none {
+  android-elevation: 0;
+}

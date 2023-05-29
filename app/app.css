@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ActionBar {
+  height: 0;
+}
+
+.elevation-none {
+  android-elevation: 0;
+}
+
+.fa {
+  font-family: FontAwesome, fontawesome-webfont;
+}
